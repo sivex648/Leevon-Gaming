@@ -1,0 +1,15 @@
+
+        body{
+            background: linear-gradient(black, orange);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        h1{
+          color:orange;
+        }
+        h3{
+          color: rgb(62, 19, 119);
+          font-family: "Nunito Sans";
+        }
+  
+    
